@@ -1,0 +1,14 @@
+{
+  "name": "Anam AI Studio",
+  "short_name": "AnamAI",
+  "description": "Professional CV Design, AI Tools & Digital Services — Pakistan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07070F",
+  "theme_color": "#8B5CF6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {"src": "logo.png","sizes": "192x192","type": "image/png","purpose": "any maskable"},
+    {"src": "logo.png","sizes": "512x512","type": "image/png","purpose": "any maskable"}
+  ]
+}
