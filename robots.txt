@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://anamaistudio.vercel.app/sitemap.xml
+
+Sitemap: https://anam-ai-studio.vercel.app/sitemap.xml
